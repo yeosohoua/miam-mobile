@@ -1,0 +1,56 @@
+// PATCH-24
+import 'package:miam_icons/miam_icons.dart';
+import 'package:flutter/material.dart' show Icons;
+import 'package:flutter/widgets.dart';
+
+class AppIcons {
+  const AppIcons._();
+  static const IconData home = MiamIcons.uniEA70;
+  static const IconData homeOutline = MiamIcons.uniEA71;
+  static const IconData wallet = MiamIcons.uniEC5E;
+  static const IconData walletOutline = MiamIcons.uniEC5F;
+  static const IconData book = MiamIcons.uniE964;
+  static const IconData bookOutline = MiamIcons.uniE965;
+  static const IconData user = MiamIcons.uniEC3C;
+  static const IconData userOutline = MiamIcons.uniEC3D;
+  static const IconData bell = MiamIcons.uniEB0F;
+  static const IconData search = MiamIcons.uniEB67;
+  static const IconData filters = MiamIcons.uniEA36;
+  static const IconData basket = MiamIcons.uniEB91;
+  static const IconData truck = MiamIcons.uniEC2C;
+  static const IconData star = MiamIcons.uniEBDD;
+  static const IconData clock = MiamIcons.uniE9BF;
+  static const IconData bolt = MiamIcons.uniEA44;
+  static const IconData offer = MiamIcons.uniEA0E;
+  static const IconData chevronDown = MiamIcons.uniE927;
+  static const IconData check = MiamIcons.uniEC1A;
+  static const IconData truckFilled = MiamIcons.uniEC2C;
+  static const IconData gift = MiamIcons.uniEA52;
+  static const IconData card = MiamIcons.uniE9E8;
+  static const IconData plusCircle = MiamIcons.uniE902;
+  static const IconData clockFilled = MiamIcons.uniE9BE;
+  static const IconData pin = MiamIcons.uniEAAE;
+  static const IconData bag = MiamIcons.uniEB86;
+  static const IconData loader = MiamIcons.uniEAAD;
+  static const IconData chat = MiamIcons.uniE978;
+  static const IconData gear = MiamIcons.uniE9DC;
+  static const IconData headset = MiamIcons.uniE9F9;
+  static const IconData info = MiamIcons.uniEA84;
+  static const IconData logout = MiamIcons.uniEABE;
+  static const IconData basketFilled = MiamIcons.uniEB90;
+  static const IconData flag = MiamIcons.uniEA42;
+  static const IconData closeCircle = MiamIcons.uniE98D;
+  static const IconData arrowLeft = MiamIcons.uniE934;
+  static const IconData chevronRight = MiamIcons.uniE93D;
+  static const IconData plus = MiamIcons.uniE901;
+  static const IconData xThin = MiamIcons.uniE98A;
+  static const IconData checkThin = MiamIcons.uniEC19;
+  static const IconData pencil = MiamIcons.uniEB2D;
+  static const IconData userCircle = MiamIcons.uniEC43;
+  static const IconData mail = MiamIcons.uniEAC9;
+  static const IconData globe = MiamIcons.uniEA57;
+  static const IconData palette = MiamIcons.uniEB20;
+  static const IconData key = MiamIcons.uniEA94;
+  static const IconData lock = MiamIcons.uniEABA;
+  static const IconData phone = Icons.phone_outlined;
+}
