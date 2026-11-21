@@ -58,3 +58,5 @@ android/local.properties
 *.zip
 android_backup_avant_rename/
 .claude/
+
+google-services*.json
