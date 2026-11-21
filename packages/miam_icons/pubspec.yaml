@@ -1,0 +1,18 @@
+name: miam_icons
+description: Police d'icones Icomoon (reconstruit depuis l'APK).
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.41.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Icomoon
+      fonts:
+        - asset: font/icomoon.ttf

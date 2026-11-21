@@ -1,0 +1,49 @@
+name: miam_assets
+description: Images et polices partagees (reconstruit depuis l'APK).
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.41.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - images/avatars/
+    - images/brands/
+    - images/card_backgrounds/
+    - images/cars/
+    - images/clothes/
+    - images/countries/
+    - images/empty_states/
+    - images/icons_twotone/
+    - images/map_previews/
+    - images/markers/
+    - images/others/
+    - images/payment_methods/
+    - images/shapes/
+  fonts:
+    - family: DM Sans
+      fonts:
+        - asset: fonts/dmsansregular.ttf
+          weight: 400
+        - asset: fonts/dmsansmedium.ttf
+          weight: 500
+        - asset: fonts/dmsanssemibold.ttf
+          weight: 600
+        - asset: fonts/dmsansbold.ttf
+          weight: 700
+    - family: Inter
+      fonts:
+        - asset: fonts/interregular.ttf
+          weight: 400
+        - asset: fonts/intermedium.ttf
+          weight: 500
+        - asset: fonts/intersemibold.ttf
+          weight: 600
+        - asset: fonts/interbold.ttf
+          weight: 700

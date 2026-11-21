@@ -1,0 +1,452 @@
+// Reconstruit depuis l'APK (equivalent de miam_assets/gen/assets.gen.dart).
+// Usage: Image.asset(MiamAssets.avatars.real01, package: 'miam_assets')
+
+class _Avatars {
+  const _Avatars();
+  final String illustration01 = 'images/avatars/illustration_01.png';
+  final String illustration02 = 'images/avatars/illustration_02.png';
+  final String illustration03 = 'images/avatars/illustration_03.png';
+  final String illustration04 = 'images/avatars/illustration_04.png';
+  final String illustration05 = 'images/avatars/illustration_05.png';
+  final String illustration06 = 'images/avatars/illustration_06.png';
+  final String illustration07 = 'images/avatars/illustration_07.png';
+  final String real01 = 'images/avatars/real_01.png';
+  final String real02 = 'images/avatars/real_02.png';
+  final String real03 = 'images/avatars/real_03.png';
+  final String real04 = 'images/avatars/real_04.png';
+  final String real05 = 'images/avatars/real_05.png';
+  final String real06 = 'images/avatars/real_06.png';
+  final String real07 = 'images/avatars/real_07.png';
+}
+
+class _Brands {
+  const _Brands();
+  final String apple = 'images/brands/apple.png';
+  final String facebook = 'images/brands/facebook.png';
+  final String google = 'images/brands/google.png';
+  final String instagram = 'images/brands/instagram.png';
+  final String linkedin = 'images/brands/linkedin.png';
+  final String lumeAgency = 'images/brands/lume_agency.png';
+  final String telegram = 'images/brands/telegram.png';
+  final String whatsapp = 'images/brands/whatsapp.png';
+  final String x = 'images/brands/x.png';
+  final String youtube = 'images/brands/youtube.png';
+}
+
+class _CardBackgrounds {
+  const _CardBackgrounds();
+  final String linearGradientStyle1Dark = 'images/card_backgrounds/linear_gradient_style-1-dark.webp';
+  final String linearGradientStyle1 = 'images/card_backgrounds/linear_gradient_style-1.webp';
+  final String linearGradientStyle2 = 'images/card_backgrounds/linear_gradient_style-2.webp';
+  final String linearGradientStyle3 = 'images/card_backgrounds/linear_gradient_style-3.webp';
+  final String simpleCard = 'images/card_backgrounds/simple_card.png';
+  final String solidBlue = 'images/card_backgrounds/solid_blue.webp';
+}
+
+class _Cars {
+  const _Cars();
+  final String carBlack = 'images/cars/car_black.png';
+  final String carWhite = 'images/cars/car_white.png';
+  final String carYellow = 'images/cars/car_yellow.png';
+}
+
+class _Clothes {
+  const _Clothes();
+  final String baby01 = 'images/clothes/baby_01.svg';
+  final String dress03 = 'images/clothes/dress_03.svg';
+  final String hoodie = 'images/clothes/hoodie.svg';
+  final String neckles = 'images/clothes/neckles.svg';
+  final String runningShoes = 'images/clothes/running_shoes.svg';
+  final String sleeveless = 'images/clothes/sleeveless.svg';
+  final String suit02 = 'images/clothes/suit_02.svg';
+  final String tShirt = 'images/clothes/t_shirt.svg';
+  final String turtleNeck = 'images/clothes/turtle_neck.svg';
+}
+
+class _Countries {
+  const _Countries();
+  final String adSvg = 'images/countries/ad.svg.png';
+  final String aeSvg = 'images/countries/ae.svg.png';
+  final String afSvg = 'images/countries/af.svg.png';
+  final String agSvg = 'images/countries/ag.svg.png';
+  final String aiSvg = 'images/countries/ai.svg.png';
+  final String alSvg = 'images/countries/al.svg.png';
+  final String amSvg = 'images/countries/am.svg.png';
+  final String anSvg = 'images/countries/an.svg.png';
+  final String aoSvg = 'images/countries/ao.svg.png';
+  final String aqSvg = 'images/countries/aq.svg.png';
+  final String arSvg = 'images/countries/ar.svg.png';
+  final String asSvg = 'images/countries/as.svg.png';
+  final String atSvg = 'images/countries/at.svg.png';
+  final String auSvg = 'images/countries/au.svg.png';
+  final String awSvg = 'images/countries/aw.svg.png';
+  final String axSvg = 'images/countries/ax.svg.png';
+  final String azSvg = 'images/countries/az.svg.png';
+  final String baSvg = 'images/countries/ba.svg.png';
+  final String bbSvg = 'images/countries/bb.svg.png';
+  final String bdSvg = 'images/countries/bd.svg.png';
+  final String beSvg = 'images/countries/be.svg.png';
+  final String bfSvg = 'images/countries/bf.svg.png';
+  final String bgSvg = 'images/countries/bg.svg.png';
+  final String bhSvg = 'images/countries/bh.svg.png';
+  final String biSvg = 'images/countries/bi.svg.png';
+  final String bjSvg = 'images/countries/bj.svg.png';
+  final String blSvg = 'images/countries/bl.svg.png';
+  final String bmSvg = 'images/countries/bm.svg.png';
+  final String bnSvg = 'images/countries/bn.svg.png';
+  final String boSvg = 'images/countries/bo.svg.png';
+  final String brSvg = 'images/countries/br.svg.png';
+  final String bsSvg = 'images/countries/bs.svg.png';
+  final String btSvg = 'images/countries/bt.svg.png';
+  final String bwSvg = 'images/countries/bw.svg.png';
+  final String bySvg = 'images/countries/by.svg.png';
+  final String bzSvg = 'images/countries/bz.svg.png';
+  final String caSvg = 'images/countries/ca.svg.png';
+  final String ccSvg = 'images/countries/cc.svg.png';
+  final String cdSvg = 'images/countries/cd.svg.png';
+  final String cfSvg = 'images/countries/cf.svg.png';
+  final String cgSvg = 'images/countries/cg.svg.png';
+  final String chSvg = 'images/countries/ch.svg.png';
+  final String china = 'images/countries/china.png';
+  final String ciSvg = 'images/countries/ci.svg.png';
+  final String ckSvg = 'images/countries/ck.svg.png';
+  final String clSvg = 'images/countries/cl.svg.png';
+  final String cmSvg = 'images/countries/cm.svg.png';
+  final String cnSvg = 'images/countries/cn.svg.png';
+  final String coSvg = 'images/countries/co.svg.png';
+  final String cqSvg = 'images/countries/cq.svg.png';
+  final String crSvg = 'images/countries/cr.svg.png';
+  final String cuSvg = 'images/countries/cu.svg.png';
+  final String cvSvg = 'images/countries/cv.svg.png';
+  final String cwSvg = 'images/countries/cw.svg.png';
+  final String cxSvg = 'images/countries/cx.svg.png';
+  final String cySvg = 'images/countries/cy.svg.png';
+  final String czSvg = 'images/countries/cz.svg.png';
+  final String deSvg = 'images/countries/de.svg.png';
+  final String denmark = 'images/countries/denmark.png';
+  final String djSvg = 'images/countries/dj.svg.png';
+  final String dkSvg = 'images/countries/dk.svg.png';
+  final String dmSvg = 'images/countries/dm.svg.png';
+  final String doSvg = 'images/countries/do.svg.png';
+  final String dzSvg = 'images/countries/dz.svg.png';
+  final String ecSvg = 'images/countries/ec.svg.png';
+  final String eeSvg = 'images/countries/ee.svg.png';
+  final String egSvg = 'images/countries/eg.svg.png';
+  final String ehSvg = 'images/countries/eh.svg.png';
+  final String eoSvg = 'images/countries/eo.svg.png';
+  final String erSvg = 'images/countries/er.svg.png';
+  final String esSvg = 'images/countries/es.svg.png';
+  final String etSvg = 'images/countries/et.svg.png';
+  final String europeanUnionSvg = 'images/countries/european_union.svg.png';
+  final String fiSvg = 'images/countries/fi.svg.png';
+  final String fjSvg = 'images/countries/fj.svg.png';
+  final String fkSvg = 'images/countries/fk.svg.png';
+  final String fmSvg = 'images/countries/fm.svg.png';
+  final String foSvg = 'images/countries/fo.svg.png';
+  final String frSvg = 'images/countries/fr.svg.png';
+  final String france = 'images/countries/france.png';
+  final String gaSvg = 'images/countries/ga.svg.png';
+  final String gbSvg = 'images/countries/gb.svg.png';
+  final String gdSvg = 'images/countries/gd.svg.png';
+  final String geSvg = 'images/countries/ge.svg.png';
+  final String germany = 'images/countries/germany.png';
+  final String gfSvg = 'images/countries/gf.svg.png';
+  final String ggSvg = 'images/countries/gg.svg.png';
+  final String ghSvg = 'images/countries/gh.svg.png';
+  final String giSvg = 'images/countries/gi.svg.png';
+  final String glSvg = 'images/countries/gl.svg.png';
+  final String gmSvg = 'images/countries/gm.svg.png';
+  final String gnSvg = 'images/countries/gn.svg.png';
+  final String gpSvg = 'images/countries/gp.svg.png';
+  final String gqSvg = 'images/countries/gq.svg.png';
+  final String grSvg = 'images/countries/gr.svg.png';
+  final String gsSvg = 'images/countries/gs.svg.png';
+  final String gtSvg = 'images/countries/gt.svg.png';
+  final String guSvg = 'images/countries/gu.svg.png';
+  final String gwSvg = 'images/countries/gw.svg.png';
+  final String gySvg = 'images/countries/gy.svg.png';
+  final String hkSvg = 'images/countries/hk.svg.png';
+  final String hnSvg = 'images/countries/hn.svg.png';
+  final String hrSvg = 'images/countries/hr.svg.png';
+  final String htSvg = 'images/countries/ht.svg.png';
+  final String huSvg = 'images/countries/hu.svg.png';
+  final String iaSvg = 'images/countries/ia.svg.png';
+  final String idSvg = 'images/countries/id.svg.png';
+  final String ieSvg = 'images/countries/ie.svg.png';
+  final String ilSvg = 'images/countries/il.svg.png';
+  final String imSvg = 'images/countries/im.svg.png';
+  final String inSvg = 'images/countries/in.svg.png';
+  final String ioSvg = 'images/countries/io.svg.png';
+  final String iqSvg = 'images/countries/iq.svg.png';
+  final String irSvg = 'images/countries/ir.svg.png';
+  final String isSvg = 'images/countries/is.svg.png';
+  final String itSvg = 'images/countries/it.svg.png';
+  final String italy = 'images/countries/italy.png';
+  final String jeSvg = 'images/countries/je.svg.png';
+  final String jmSvg = 'images/countries/jm.svg.png';
+  final String joSvg = 'images/countries/jo.svg.png';
+  final String jpSvg = 'images/countries/jp.svg.png';
+  final String keSvg = 'images/countries/ke.svg.png';
+  final String kgSvg = 'images/countries/kg.svg.png';
+  final String khSvg = 'images/countries/kh.svg.png';
+  final String kiSvg = 'images/countries/ki.svg.png';
+  final String kmSvg = 'images/countries/km.svg.png';
+  final String knSvg = 'images/countries/kn.svg.png';
+  final String kpSvg = 'images/countries/kp.svg.png';
+  final String krSvg = 'images/countries/kr.svg.png';
+  final String kwSvg = 'images/countries/kw.svg.png';
+  final String kySvg = 'images/countries/ky.svg.png';
+  final String kzSvg = 'images/countries/kz.svg.png';
+  final String laSvg = 'images/countries/la.svg.png';
+  final String lbSvg = 'images/countries/lb.svg.png';
+  final String lcSvg = 'images/countries/lc.svg.png';
+  final String liSvg = 'images/countries/li.svg.png';
+  final String lkSvg = 'images/countries/lk.svg.png';
+  final String lrSvg = 'images/countries/lr.svg.png';
+  final String lsSvg = 'images/countries/ls.svg.png';
+  final String ltSvg = 'images/countries/lt.svg.png';
+  final String luSvg = 'images/countries/lu.svg.png';
+  final String lvSvg = 'images/countries/lv.svg.png';
+  final String lySvg = 'images/countries/ly.svg.png';
+  final String maSvg = 'images/countries/ma.svg.png';
+  final String map = 'images/countries/map.webp';
+  final String mcSvg = 'images/countries/mc.svg.png';
+  final String mdSvg = 'images/countries/md.svg.png';
+  final String meSvg = 'images/countries/me.svg.png';
+  final String mfSvg = 'images/countries/mf.svg.png';
+  final String mgSvg = 'images/countries/mg.svg.png';
+  final String mhSvg = 'images/countries/mh.svg.png';
+  final String mkSvg = 'images/countries/mk.svg.png';
+  final String mlSvg = 'images/countries/ml.svg.png';
+  final String mmSvg = 'images/countries/mm.svg.png';
+  final String mnSvg = 'images/countries/mn.svg.png';
+  final String moSvg = 'images/countries/mo.svg.png';
+  final String mpSvg = 'images/countries/mp.svg.png';
+  final String mqSvg = 'images/countries/mq.svg.png';
+  final String mrSvg = 'images/countries/mr.svg.png';
+  final String msSvg = 'images/countries/ms.svg.png';
+  final String mtSvg = 'images/countries/mt.svg.png';
+  final String muSvg = 'images/countries/mu.svg.png';
+  final String mvSvg = 'images/countries/mv.svg.png';
+  final String mwSvg = 'images/countries/mw.svg.png';
+  final String mxSvg = 'images/countries/mx.svg.png';
+  final String mySvg = 'images/countries/my.svg.png';
+  final String mzSvg = 'images/countries/mz.svg.png';
+  final String naSvg = 'images/countries/na.svg.png';
+  final String ncSvg = 'images/countries/nc.svg.png';
+  final String neSvg = 'images/countries/ne.svg.png';
+  final String netherlands = 'images/countries/netherlands.png';
+  final String nfSvg = 'images/countries/nf.svg.png';
+  final String ngSvg = 'images/countries/ng.svg.png';
+  final String niSvg = 'images/countries/ni.svg.png';
+  final String nlSvg = 'images/countries/nl.svg.png';
+  final String noSvg = 'images/countries/no.svg.png';
+  final String norway = 'images/countries/norway.png';
+  final String npSvg = 'images/countries/np.svg.png';
+  final String nrSvg = 'images/countries/nr.svg.png';
+  final String nuSvg = 'images/countries/nu.svg.png';
+  final String nzSvg = 'images/countries/nz.svg.png';
+  final String omSvg = 'images/countries/om.svg.png';
+  final String paSvg = 'images/countries/pa.svg.png';
+  final String peSvg = 'images/countries/pe.svg.png';
+  final String pfSvg = 'images/countries/pf.svg.png';
+  final String pgSvg = 'images/countries/pg.svg.png';
+  final String phSvg = 'images/countries/ph.svg.png';
+  final String pkSvg = 'images/countries/pk.svg.png';
+  final String plSvg = 'images/countries/pl.svg.png';
+  final String pmSvg = 'images/countries/pm.svg.png';
+  final String pnSvg = 'images/countries/pn.svg.png';
+  final String prSvg = 'images/countries/pr.svg.png';
+  final String psSvg = 'images/countries/ps.svg.png';
+  final String ptSvg = 'images/countries/pt.svg.png';
+  final String pwSvg = 'images/countries/pw.svg.png';
+  final String pySvg = 'images/countries/py.svg.png';
+  final String qaSvg = 'images/countries/qa.svg.png';
+  final String reSvg = 'images/countries/re.svg.png';
+  final String roSvg = 'images/countries/ro.svg.png';
+  final String rsSvg = 'images/countries/rs.svg.png';
+  final String ruSvg = 'images/countries/ru.svg.png';
+  final String rwSvg = 'images/countries/rw.svg.png';
+  final String saSvg = 'images/countries/sa.svg.png';
+  final String sbSvg = 'images/countries/sb.svg.png';
+  final String scSvg = 'images/countries/sc.svg.png';
+  final String sdSvg = 'images/countries/sd.svg.png';
+  final String seSvg = 'images/countries/se.svg.png';
+  final String sgSvg = 'images/countries/sg.svg.png';
+  final String siSvg = 'images/countries/si.svg.png';
+  final String skSvg = 'images/countries/sk.svg.png';
+  final String slSvg = 'images/countries/sl.svg.png';
+  final String smSvg = 'images/countries/sm.svg.png';
+  final String snSvg = 'images/countries/sn.svg.png';
+  final String soSvg = 'images/countries/so.svg.png';
+  final String spain = 'images/countries/spain.png';
+  final String srSvg = 'images/countries/sr.svg.png';
+  final String ssSvg = 'images/countries/ss.svg.png';
+  final String stSvg = 'images/countries/st.svg.png';
+  final String svSvg = 'images/countries/sv.svg.png';
+  final String sxSvg = 'images/countries/sx.svg.png';
+  final String sySvg = 'images/countries/sy.svg.png';
+  final String szSvg = 'images/countries/sz.svg.png';
+  final String tcSvg = 'images/countries/tc.svg.png';
+  final String tdSvg = 'images/countries/td.svg.png';
+  final String tfSvg = 'images/countries/tf.svg.png';
+  final String tgSvg = 'images/countries/tg.svg.png';
+  final String thSvg = 'images/countries/th.svg.png';
+  final String tjSvg = 'images/countries/tj.svg.png';
+  final String tkSvg = 'images/countries/tk.svg.png';
+  final String tlSvg = 'images/countries/tl.svg.png';
+  final String tmSvg = 'images/countries/tm.svg.png';
+  final String tnSvg = 'images/countries/tn.svg.png';
+  final String toSvg = 'images/countries/to.svg.png';
+  final String trSvg = 'images/countries/tr.svg.png';
+  final String ttSvg = 'images/countries/tt.svg.png';
+  final String tvSvg = 'images/countries/tv.svg.png';
+  final String twSvg = 'images/countries/tw.svg.png';
+  final String tzSvg = 'images/countries/tz.svg.png';
+  final String uaSvg = 'images/countries/ua.svg.png';
+  final String ugSvg = 'images/countries/ug.svg.png';
+  final String ukraine = 'images/countries/ukraine.png';
+  final String united20kingdom = 'images/countries/united%20kingdom.png';
+  final String unitedStates = 'images/countries/united-states.png';
+  final String usSvg = 'images/countries/us.svg.png';
+  final String uySvg = 'images/countries/uy.svg.png';
+  final String uzSvg = 'images/countries/uz.svg.png';
+  final String vaSvg = 'images/countries/va.svg.png';
+  final String vcSvg = 'images/countries/vc.svg.png';
+  final String veSvg = 'images/countries/ve.svg.png';
+  final String vgSvg = 'images/countries/vg.svg.png';
+  final String viSvg = 'images/countries/vi.svg.png';
+  final String vnSvg = 'images/countries/vn.svg.png';
+  final String voSvg = 'images/countries/vo.svg.png';
+  final String vuSvg = 'images/countries/vu.svg.png';
+  final String wfSvg = 'images/countries/wf.svg.png';
+  final String wsSvg = 'images/countries/ws.svg.png';
+  final String xkSvg = 'images/countries/xk.svg.png';
+  final String xxSvg = 'images/countries/xx.svg.png';
+  final String yeSvg = 'images/countries/ye.svg.png';
+  final String yiSvg = 'images/countries/yi.svg.png';
+  final String ytSvg = 'images/countries/yt.svg.png';
+  final String yuSvg = 'images/countries/yu.svg.png';
+  final String zaSvg = 'images/countries/za.svg.png';
+  final String zmSvg = 'images/countries/zm.svg.png';
+  final String zwSvg = 'images/countries/zw.svg.png';
+}
+
+class _EmptyStates {
+  const _EmptyStates();
+  final String addToBasket = 'images/empty_states/addToBasket.png';
+  final String chat = 'images/empty_states/chat.png';
+  final String checklist = 'images/empty_states/checklist.png';
+  final String contactError = 'images/empty_states/contactError.png';
+  final String contentArchive = 'images/empty_states/contentArchive.png';
+  final String contentSearching = 'images/empty_states/contentSearching.png';
+  final String cyberThreat = 'images/empty_states/cyberThreat.png';
+  final String emailNotification2 = 'images/empty_states/emailNotification2.png';
+  final String empty = 'images/empty_states/empty.png';
+  final String empty2 = 'images/empty_states/empty2.png';
+  final String error = 'images/empty_states/error.png';
+  final String feedback = 'images/empty_states/feedback.png';
+  final String loginGateway = 'images/empty_states/loginGateway.png';
+  final String moneySaving = 'images/empty_states/moneySaving.png';
+  final String noChatNotification = 'images/empty_states/noChatNotification.png';
+  final String noNotification = 'images/empty_states/noNotification.png';
+  final String noOffer = 'images/empty_states/noOffer.png';
+  final String noRecord = 'images/empty_states/noRecord.png';
+  final String noTask = 'images/empty_states/noTask.png';
+  final String notification = 'images/empty_states/notification.png';
+  final String officeLocation = 'images/empty_states/officeLocation.png';
+  final String security = 'images/empty_states/security.png';
+  final String shopNow = 'images/empty_states/shopNow.png';
+  final String specialOffer = 'images/empty_states/specialOffer.png';
+  final String support = 'images/empty_states/support.png';
+  final String timeAlert = 'images/empty_states/timeAlert.png';
+  final String timeOff = 'images/empty_states/timeOff.png';
+  final String userMagnet = 'images/empty_states/userMagnet.png';
+}
+
+class _IconsTwotone {
+  const _IconsTwotone();
+  final String bank = 'images/icons_twotone/bank.svg';
+  final String call02 = 'images/icons_twotone/call-02.svg';
+  final String chart03 = 'images/icons_twotone/chart-03.svg';
+  final String checkmarkCircle02 = 'images/icons_twotone/checkmark-circle-02.svg';
+  final String clock01 = 'images/icons_twotone/clock-01.svg';
+  final String file02 = 'images/icons_twotone/file-02.svg';
+  final String link04 = 'images/icons_twotone/link-04.svg';
+  final String shoppingCart01 = 'images/icons_twotone/shopping-cart-01.svg';
+  final String star = 'images/icons_twotone/star.svg';
+  final String userCircle = 'images/icons_twotone/user-circle.svg';
+  final String userSquare = 'images/icons_twotone/user-square.svg';
+}
+
+class _MapPreviews {
+  const _MapPreviews();
+  final String googlemap = 'images/map_previews/googlemap.webp';
+}
+
+class _Markers {
+  const _Markers();
+  final String rodPin = 'images/markers/rod_pin.png';
+}
+
+class _Others {
+  const _Others();
+  final String notification02 = 'images/others/notification_02.png';
+  final String paintBoard = 'images/others/paint_board.png';
+  final String shield01 = 'images/others/shield_01.png';
+  final String sun01 = 'images/others/sun_01.png';
+}
+
+class _PaymentMethods {
+  const _PaymentMethods();
+  final String americanExpress = 'images/payment_methods/american_express.svg';
+  final String applePay = 'images/payment_methods/apple_pay.svg';
+  final String bancontact = 'images/payment_methods/bancontact.svg';
+  final String bankTransfer = 'images/payment_methods/bank_transfer.svg';
+  final String dinersClub = 'images/payment_methods/diners_club.svg';
+  final String directDebit = 'images/payment_methods/direct_debit.svg';
+  final String discover = 'images/payment_methods/discover.svg';
+  final String giropay = 'images/payment_methods/giropay.svg';
+  final String googlePay = 'images/payment_methods/google_pay.svg';
+  final String ideal = 'images/payment_methods/ideal.svg';
+  final String jcb = 'images/payment_methods/jcb.svg';
+  final String klarna = 'images/payment_methods/klarna.svg';
+  final String maestro = 'images/payment_methods/maestro.svg';
+  final String mastercard = 'images/payment_methods/mastercard.png';
+  final String mastercard_ = 'images/payment_methods/mastercard.svg';
+  final String paypal = 'images/payment_methods/paypal.png';
+  final String paypal_ = 'images/payment_methods/paypal.svg';
+  final String sepa = 'images/payment_methods/sepa.svg';
+  final String stripe = 'images/payment_methods/stripe.png';
+  final String unionPay = 'images/payment_methods/union_pay.svg';
+  final String visa = 'images/payment_methods/visa.png';
+  final String visa_ = 'images/payment_methods/visa.svg';
+}
+
+class _Shapes {
+  const _Shapes();
+  final String clock = 'images/shapes/clock.svg';
+  final String dotPin = 'images/shapes/dot-pin.svg';
+  final String headerBackground = 'images/shapes/header_background.webp';
+  final String rodPin = 'images/shapes/rod-pin.svg';
+  final String starHalf = 'images/shapes/star-half.svg';
+  final String underline = 'images/shapes/underline.svg';
+}
+
+class MiamAssets {
+  const MiamAssets._();
+  static const avatars = _Avatars();
+  static const brands = _Brands();
+  static const cardBackgrounds = _CardBackgrounds();
+  static const cars = _Cars();
+  static const clothes = _Clothes();
+  static const countries = _Countries();
+  static const emptyStates = _EmptyStates();
+  static const iconsTwotone = _IconsTwotone();
+  static const mapPreviews = _MapPreviews();
+  static const markers = _Markers();
+  static const others = _Others();
+  static const paymentMethods = _PaymentMethods();
+  static const shapes = _Shapes();
+  static const String package = 'miam_assets';
+}
